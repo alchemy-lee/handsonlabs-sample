@@ -26,7 +26,7 @@ import (
 )
 
 import (
-	dubbo3pb "github.com/apache/dubbo-go-samples/general/dubbo3/pb/dubbogo-java/protobuf"
+	dubbo3pb "handsonlabs-sample/dubbogo-java/protobuf"
 )
 
 type GreeterProvider struct {

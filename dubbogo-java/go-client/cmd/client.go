@@ -37,8 +37,9 @@ import (
 )
 
 import (
-	"github.com/alchemy-lee/handsonlabs-sample/dubbogo-java/go-client/pkg"
-	pb "github.com/alchemy-lee/handsonlabs-sample/dubbogo-java/protobuf"
+	//"github.com/alchemy-lee/handsonlabs-sample/dubbogo-java/go-client/pkg"
+	"handsonlabs-sample/dubbogo-java/go-client/pkg"
+	pb "handsonlabs-sample/dubbogo-java/protobuf"
 )
 
 var grpcGreeterImpl = new(pkg.GreeterProvider)
